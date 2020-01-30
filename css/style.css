@@ -727,7 +727,7 @@ ul.footer_social li a i:hover {
 }
 
 .home-section-overlay {
-    background: url(../../hero-circles2.png) top center no-repeat;
+    background: url(../images/hero-circles2.png) top center no-repeat;
     width: 100%;
     opacity: 0.89;
     position: absolute;
@@ -1500,7 +1500,7 @@ a.button-blog:hover{
 }
 
 .shape-grey-image-top{
-	background: url(../../shape-top-right-grey.png) top center no-repeat;
+	background: url(../images/shape-top-right-grey.png) top center no-repeat;
 	background-size: contain;
 	background-attachment: scroll;
 	width: 100%;
@@ -1708,7 +1708,7 @@ p.contact_success_box{
 /* -----  a) Video PopUp ----- */
 
 .video-wrapper{
-	background: url(../../Mockups/Mock7.png) top center no-repeat;
+	background: url(../images/Mockups/Mock7.png) top center no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 	width: 100%;
@@ -1732,7 +1732,7 @@ p.contact_success_box{
 }
 
 .shape-image-top{
-	background: url(../../shape-top-right.png) top center no-repeat;
+	background: url(../images/shape-top-right.png) top center no-repeat;
 	background-size: contain;
 	background-attachment: scroll;
 	width: 100%;
@@ -1744,7 +1744,7 @@ p.contact_success_box{
 }
 
 .shape-image-bottom{
-	background: url(../../shape-bottom-right.png) bottom center no-repeat;
+	background: url(../images/shape-bottom-right.png) bottom center no-repeat;
 	background-size: contain;
 	background-attachment: scroll;
 	width: 100%;
